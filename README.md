@@ -24,7 +24,7 @@ IDE: VS Code
 
 Usage:
 
-Feel free to use this portfolio website as a template for your own portfolio. You can customize the design and content to fit your needs and showcase your skills and experience.
+Feel free to use this unit convertor as a template for your own unit convertor. You can customize the design and content to fit your needs and showcase your skills and experience.
 
 Contributing:
 
